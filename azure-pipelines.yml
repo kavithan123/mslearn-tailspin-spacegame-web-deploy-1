@@ -11,7 +11,7 @@ trigger:
 
 
 pool:
-  name: 'agentpool'
+  name: 'myagentpool1'
 
 
 
